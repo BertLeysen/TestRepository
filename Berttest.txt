@@ -1,2 +1,10 @@
 hallo
+<<<<<<< HEAD
+hello hello hello
+=======
+<<<<<<< HEAD
+Ik ben Bert Leysen
+=======
 Ik ben Bert
+>>>>>>> 8fbe42d4299129a02aaf10790ab5eda995cca9a7
+>>>>>>> e64a068ce714118eb4f1ea37803e9a184309d58f
