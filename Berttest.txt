@@ -1,2 +1,6 @@
 hallo
+<<<<<<< HEAD
 Ik ben Bert Leysen
+=======
+Ik ben Bert
+>>>>>>> 8fbe42d4299129a02aaf10790ab5eda995cca9a7
